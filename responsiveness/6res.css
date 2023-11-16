@@ -1,0 +1,10 @@
+#foods{
+    grid-column-gap: 2rem;
+}
+
+#areas{
+    width: 37rem;
+}
+.area{
+    font-size: 1.5rem;
+}

@@ -1,0 +1,27 @@
+.inbox{
+    width: 260px;
+}
+.boximage{
+    width: 210px;
+}
+.restroimage{
+    width: 300px;
+    margin-left: 70px;
+}
+.restroname{
+    margin-left: 70px;
+    font-size: 1.5rem;
+}
+.desc{
+    margin-left: 70px;
+    font-size: 0.8rem;
+}
+#inside{
+    margin-left: 100px;
+}
+.secondary{
+    font-size: 1.7rem;
+}
+.line1{
+    width: 70%;
+}

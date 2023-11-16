@@ -1,0 +1,16 @@
+h1{
+    font-size: 3rem;
+}
+#aboutdata{
+    padding-left: 7rem;
+}
+.anchor{
+    font-size: 0.7rem;
+}
+#menu{
+    grid-template-columns: repeat(4,75px);
+}
+#endline{
+    font-size: 0.6rem;
+    width: 15rem;
+}

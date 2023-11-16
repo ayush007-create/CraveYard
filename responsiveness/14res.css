@@ -1,0 +1,20 @@
+#menu{
+    grid-template-columns: repeat(4,70px);
+    padding-right: 5rem;
+}
+.anchor{
+    font-size: 0.7rem;
+}
+#blank{
+    margin-right: 8rem;
+}
+.hub{
+    height: 200px;
+    width: 300px;
+}
+.food{
+    width: 320px;
+}
+#country{
+    padding-right: 7rem;
+}

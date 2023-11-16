@@ -1,0 +1,9 @@
+.area{
+    font-size: 0.9rem;
+}
+#foods{
+    grid-template-columns: repeat(2,500px);
+}
+#areas{
+    width: 100%;
+}

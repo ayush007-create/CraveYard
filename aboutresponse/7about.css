@@ -1,0 +1,15 @@
+h1{
+    font-size: 5rem;
+}
+#aboutdata{
+    width: 24rem;
+}
+#info{
+    grid-template-columns: repeat(1,1fr);
+}
+.point{
+    font-size: 0.7rem;
+}
+#endline{
+    width: 22rem;
+}

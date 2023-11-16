@@ -1,0 +1,26 @@
+.anchor{
+    font-size: 0.5rem;
+}
+#menu{
+    grid-template-columns: repeat(4,50px);
+    padding-right: 20rem;
+}
+#blank{
+    margin-right: 15rem;
+}
+.hub{
+    height: 170px;
+    width: 200px;
+}
+.food{
+    width: 220px;
+    height: 300px;
+}
+#name{
+    height: 110px;
+    width: 220px;
+}
+
+.data1{
+    font-size: 0.8rem;
+}

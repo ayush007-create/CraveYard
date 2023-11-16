@@ -1,0 +1,53 @@
+#body{
+    overflow: hidden;
+}
+
+#home{
+    overflow: hidden;
+}
+#logo{
+    justify-content: center;
+}
+#navi img{
+    height: 80px;
+    width: 200px;
+}
+#navi ul{
+    padding-right: 30px;
+}
+#navi ul li a{
+    font-size: 1rem;
+    padding-right: 10px;
+}
+#home button{
+    align-self: center;
+
+}
+#services{
+    overflow: hidden;
+}
+#box{
+    overflow: hidden;
+}
+#box1{
+    overflow: hidden;
+}
+.points{
+    width: 75rem;
+}
+.points1{
+    width: 200px;
+}
+
+#box div{
+    flex-basis: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#box1 div{
+    flex-basis: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

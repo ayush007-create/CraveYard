@@ -1,0 +1,16 @@
+#menu{
+    grid-template-columns: 83px 100px 110px 140px 200px;
+}
+#aboutdata{
+    font-size: 0.8rem;
+}
+#footer{
+    grid-gap: 0.3rem;
+}
+#endline{
+    width: 70rem;
+    padding-left: 10rem;
+}
+.line1{
+    width: 70%;
+}

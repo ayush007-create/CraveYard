@@ -1,0 +1,25 @@
+#menu{
+    grid-template-columns: 83px 95px 100px 100px 200px;
+}
+#aboutdata{
+    font-size: 0.6rem;
+}
+#info{
+    grid-template-columns: repeat(2,500px);
+}
+#footer{
+    grid-template-areas: 
+    'namebottom namebottom namebottom namebottom'
+    'country country country country'
+    'info info info info'
+    'bottomline bottomline bottomline bottomline';
+}
+#endline{
+    width: 50rem;
+}
+#country{
+    justify-content: center;
+}
+.anchor{
+    font-size: 0.9rem;
+}

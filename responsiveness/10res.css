@@ -1,0 +1,29 @@
+#navbar{
+    grid-template-areas: 
+    'logo logo logo logo'
+    'menu menu menu menu';
+}
+#page{
+    grid-template-areas: 
+    'navbar navbar navbar navbar'
+    'foods foods foods foods'
+    'footer footer footer footer';
+}
+#areas{
+    display: none;
+}
+#logo{
+    display: grid;
+    grid-area: logo;
+    justify-content: center;
+}
+#foods{
+    grid-column-gap: 5rem;
+}
+#menu{
+    grid-area: menu;
+    padding-bottom: 2rem;
+}
+.area{
+    font-size: 0.6rem;
+}

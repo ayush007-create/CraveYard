@@ -1,0 +1,34 @@
+#navi ul li a{
+    font-size: 0.7rem;
+}
+.resrto{
+}
+.restroimage{
+    margin-left: 30px;
+    height: 330px;
+    width: 350px;
+}
+.restroname{
+    margin-left: 30px;
+}
+.desc{
+    margin-left: 30px;
+}
+#box2{
+    padding-bottom: 220rem;
+}
+#subway{
+    display: block;
+}
+#subdesc{
+    padding-top: -1px;
+}
+#subdis{
+    padding-top: 10px;
+}
+.secondary{
+    font-size: 2rem;
+}
+.points1{
+    font-size: 0.5rem;
+}

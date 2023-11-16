@@ -1,0 +1,7 @@
+#aboutdata{
+    width: 37rem;
+    padding-left: 12rem;
+}
+#info{
+    grid-template-columns: repeat(2,400px);
+}

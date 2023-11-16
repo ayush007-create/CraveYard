@@ -1,0 +1,14 @@
+#navbar{
+    grid-column-gap: 0rem;
+    padding-right: 2rem;
+}
+.anchor{
+    font-size: 1.2rem;
+    justify-content: center;
+}
+#info{
+    grid-template-columns: repeat(2,1fr);
+}
+#menu{
+    grid-template-columns: 83px 100px 110px 200px 200px;
+}

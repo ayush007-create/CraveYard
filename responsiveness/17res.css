@@ -1,0 +1,60 @@
+#name{
+    height: 88px;
+    width: 150px;
+}
+#country{
+    padding-right: 20rem;
+}
+.binfo{
+    display: grid;
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+}
+h3{
+    font-size: 0.7rem;
+}
+.data1{
+    font-size: 0.5rem;
+}
+#box1{
+    grid-template-rows: 40px 23px 23px 23px 23px 23px 23px 23px;
+}
+#box4{
+    grid-template-rows: 40px 50px 90px;
+    grid-gap: 0rem;
+    justify-content: center;
+    width: 200px;
+}
+#icon1{
+    height: 25px;
+    width: 32px;
+}
+#icon2{
+    height: 25px;
+}
+#icon3{
+    height: 30px;
+    width: 35px;
+}
+#icon4{
+    height: 25px;
+}
+#icon5{
+    height: 25px;
+}
+#box4{
+    width: 270px;
+}
+#appstore{
+    display: grid;
+    justify-content: center;
+    padding-top: 2rem;
+}
+.app{
+    height: 20px;
+}
+#endline{
+    font-size: 0.4rem;
+    width: 16rem;
+}

@@ -1,0 +1,20 @@
+#home h1{
+    font-size: 2rem;
+    padding-right: 7rem;
+}
+#crave{
+    display: inline-block;
+    width: 30%;
+    margin-right: 30rem;
+}
+#sabkuch{
+}
+.btn1{
+    font-size: 1rem;
+    margin-right: 7rem;
+}
+.points1{
+    white-space: nowrap;
+    font-size: 1rem;
+    line-height: 200%;
+}

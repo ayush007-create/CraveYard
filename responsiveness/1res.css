@@ -1,0 +1,11 @@
+.area{
+    font-size: 0.8rem;
+}
+#head{
+    font-size: 2.5rem;
+    width: 100px;
+}
+#foods{
+    grid-column-gap:7rem;
+    grid-row-gap: 2rem;
+}

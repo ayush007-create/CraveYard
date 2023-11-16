@@ -1,0 +1,27 @@
+#menu{
+    grid-template-columns: repeat(4,110px);
+}
+.food{
+    width: 520px;
+}
+.hub{
+    height: 300px;
+    width: 500px;
+}
+#blank{
+    margin-top: 3rem;
+    margin-left: 30rem;
+    justify-self: center;
+}
+#bottomline{
+    display: grid;
+    grid-template-rows: 10px 100px;
+}
+#bottomline{
+    display: grid;
+    justify-content: center;
+    grid-template-rows: 10px 100px;
+}
+#endline{
+    width: 30rem;
+}

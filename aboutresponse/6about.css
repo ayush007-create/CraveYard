@@ -1,0 +1,20 @@
+#menu{
+    grid-template-columns: repeat(4,100px);
+}
+#blank{
+    width: 10rem;
+}
+#navbar{
+    padding-bottom: 2rem;
+}
+#info{
+    grid-template-columns: repeat(2,300px);
+}
+#endline{
+    font-size: 0.7rem;
+    width: 30rem;
+}
+#aboutdata{
+    width: 30rem;
+    font-size: 0.7rem;
+}

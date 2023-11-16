@@ -1,0 +1,22 @@
+.area{
+    font-size: 0.9rem;
+}
+#page{
+    display: grid;
+    grid-template-areas: 
+    'navbar navbar navbar navbar'
+    'areas foods foods foods'
+    'footer footer footer footer';
+}
+#foods{
+    grid-template-columns: repeat(2,400px);
+}
+.food{
+    padding: 30px;
+}
+#navbar{
+    padding-right: 2rem;
+}
+#menu{
+    grid-template-columns: 83px 100px 110px 200px 200px;
+}

@@ -1,0 +1,25 @@
+.hub{
+    height: 300px;
+    width: 400px;
+}
+.food{
+    width: 420px;
+}
+#menu{
+    grid-template-columns: repeat(4,90px);
+}
+.anchor{
+    font-size: 0.9rem;
+}
+#blank{
+    margin-left: 28rem;
+}
+.line1{
+    margin-right: 10rem;
+    width: 60%;
+}
+#endline{
+    width: 20rem;
+    font-size: 0.5rem;
+    margin-right: 9rem;
+}

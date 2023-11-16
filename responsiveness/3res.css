@@ -1,0 +1,7 @@
+#foods{
+    grid-column-gap:4rem;
+    grid-row-gap: 2rem;
+}
+.area{
+    font-size: 0.8rem;
+}

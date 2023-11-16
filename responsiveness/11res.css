@@ -1,0 +1,22 @@
+#foods{
+    grid-template-columns: repeat(1,700px);
+    grid-column-gap: 1rem;
+}
+.hub{
+    height: 300px;
+    width: 680px;
+}
+#footer{
+    grid-template-areas: 
+    'namebottom namebottom namebottom namebottom'
+    'country country country country'
+    'info info info info'
+    'bottomline bottomline bottomline bottomline';
+}
+#country{
+    justify-content: center;
+}
+#info{
+    grid-template-columns: 1fr;
+    justify-content: center;
+}
